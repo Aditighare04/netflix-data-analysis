@@ -26,5 +26,5 @@ This project explores a public Netflix dataset to uncover insights like:
 
 ---
 
-🌟 _This is my first public project by **Aditi Ghare**, part of my journey to build a professional data science portfolio._  
+🌟 _This is my first public project by **Aditi Ghare**
 More awesome projects coming soon!
